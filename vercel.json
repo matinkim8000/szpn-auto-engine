@@ -8,7 +8,7 @@
   "routes": [
     {
       "src": "/api/send-szpn",
-      "dest": "api/send-szpn/index.js"
+      "dest": "/api/send-szpn/index.js"
     }
   ]
 }
