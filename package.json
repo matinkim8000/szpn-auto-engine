@@ -1,7 +1,7 @@
 {
   "name": "szpn-auto-engine",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
     "ethers": "^5.7.2"
   }
