@@ -1,8 +1,5 @@
 {
   "name": "szpn-auto-engine",
   "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "ethers": "^6.11.1"
-  }
+  "type": "module"
 }
