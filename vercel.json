@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/send-szpn/index.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "vercel-nodejs@2"
     }
   }
 }
