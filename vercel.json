@@ -2,13 +2,8 @@
   "version": 3,
   "functions": {
     "api/send-szpn/index.js": {
-      "runtime": "nodejs18.x"
+      "runtime": "nodejs18.x",
+      "memory": 256
     }
-  },
-  "routes": [
-    {
-      "src": "/api/send-szpn",
-      "dest": "api/send-szpn/index.js"
-    }
-  ]
+  }
 }
