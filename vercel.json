@@ -1,8 +1,8 @@
 {
-  "name": "szpn-auto-engine",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "ethers": "^6.8.0"
+  "version": 2,
+  "functions": {
+    "api/send-szpn.js": {
+      "runtime": "nodejs18.x"
+    }
   }
 }
